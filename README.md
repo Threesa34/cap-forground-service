@@ -11,9 +11,35 @@ npx cap sync
 
 ## API
 
-<docgen-index></docgen-index>
+<docgen-index>
+
+* [`startForegroundService()`](#startforegroundservice)
+* [`stopForegroundService()`](#stopforegroundservice)
+
+</docgen-index>
 
 <docgen-api>
-<!-- run docgen to generate docs from the source -->
-<!-- More info: https://github.com/ionic-team/capacitor-docgen -->
+<!--Update the source file JSDoc comments and rerun docgen to update the docs below-->
+
+### startForegroundService()
+
+```typescript
+startForegroundService() => Promise<{ result: string; }>
+```
+
+**Returns:** <code>Promise&lt;{ result: string; }&gt;</code>
+
+--------------------
+
+
+### stopForegroundService()
+
+```typescript
+stopForegroundService() => Promise<{ result: string; }>
+```
+
+**Returns:** <code>Promise&lt;{ result: string; }&gt;</code>
+
+--------------------
+
 </docgen-api>
