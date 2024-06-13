@@ -1,0 +1,19 @@
+# cap-forground-tasks
+
+na
+
+## Install
+
+```bash
+npm install cap-forground-tasks
+npx cap sync
+```
+
+## API
+
+<docgen-index></docgen-index>
+
+<docgen-api>
+<!-- run docgen to generate docs from the source -->
+<!-- More info: https://github.com/ionic-team/capacitor-docgen -->
+</docgen-api>
